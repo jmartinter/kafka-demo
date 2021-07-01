@@ -1,0 +1,5 @@
+.idea
+.env
+.git
+demo/utils/__pycache__/
+

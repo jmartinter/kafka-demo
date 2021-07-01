@@ -1,0 +1,9 @@
+{
+    "namespace": "clients.avro",
+    "type": "record",
+    "name": "ConditionValue",
+    "fields": [
+        {"name": "measure_ts", "type": "string"},
+        {"name": "temperature", "type": "double"}
+    ]
+}

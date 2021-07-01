@@ -1,0 +1,8 @@
+{
+    "namespace": "clients.avro",
+    "type": "record",
+    "name": "ConditionKey",
+    "fields": [
+        {"name": "key", "type": "string"}
+    ]
+}
